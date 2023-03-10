@@ -34,11 +34,11 @@ ENV VLESS_WSPATH /vless
 <p>下图为 VMess 配置示意图，请修改标示内容，其他设置与图片中显示一致。</p>
 ![image](https://user-images.githubusercontent.com/127408990/224228455-9ae8fe77-f7bf-4e15-8945-3748da27ecea.png)
 
-<img src="https://www.hicairo.com/zb_users/upload/2022/12/202212291672276258394161.webp">
+<img src="https://user-images.githubusercontent.com/127408990/224228455-9ae8fe77-f7bf-4e15-8945-3748da27ecea.png">
 <p>下图为 VLess 配置示意图，请修改标示内容，其他设置与图片中显示一致。</p>
 ![image](https://user-images.githubusercontent.com/127408990/224228483-d0b9fe97-ec65-4c3e-8085-db46cb158440.png)
 
-<img src="https://www.hicairo.com/zb_users/upload/2022/12/202212291672276274474231.webp">
+<img src="https://user-images.githubusercontent.com/127408990/224228483-d0b9fe97-ec65-4c3e-8085-db46cb158440.png">
 
 # 反馈与交流：
 <p>在使用过程中，如果遇到问题，请使用Telegram与我联系。（ https://t.me/HiaiFeng ）</p>
